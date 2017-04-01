@@ -22,11 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 111,
+    "uniqCompNum": 112,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/photo-pro-128x128.png",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Contact.html": {
