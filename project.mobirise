@@ -1,13 +1,13 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "Vision.html",
+    "currentPage": "Background.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f97352",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#7c706b",
+        "secondaryColor": "#7c706b",
         "successColor": "#90a878",
         "infoColor": "#cccccc",
         "warningColor": "#c0a375",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 112,
+    "uniqCompNum": 115,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/photo-pro-128x128.png",
     "noImageResize": "",
@@ -189,20 +189,31 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT&nbsp;</a>"
         },
         {
-          "_inherit": "soundcloud1",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F46481896",
-          "_name": "soundcloud2",
-          "_anchor": "soundcloud2-2s",
-          "_params": {
-            "sound": "https://soundcloud.com/iknowbitfunk/just-kiddin-paloma-bit-funk-remix",
-            "autoplay": true,
-            "fullWidth": true
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F46481896&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-36",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "SOCIAL MEDIAS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/fassyfehri?lang=fr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://fr.pinterest.com/sarahfassy/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/115913197478997330775\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCSf9WNKPY9bZjI7sVOb9QTg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://fr.linkedin.com/in/sarah-fassy-el-fehri\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -269,7 +280,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f97352!important"
+              "color": "#7c706b!important"
             }
           },
           "_name": "ext.menu",
@@ -507,7 +518,7 @@
           "_anchor": "testimonials2-2x",
           "_params": {
             "count": 3,
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "showImages": true,
             "showName": true,
@@ -520,10 +531,10 @@
             "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": true,
+            "showTitle": false,
             "showSubtitle": true
           },
-          "title": "Background",
+          "title": "",
           "subtitle": ""
         },
         {
@@ -814,130 +825,6 @@
           "title": "Vision",
           "text": "<br>“<i>In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.</i>\"<br><br><br><br>Feel free to contact me at your convenience to have an informal discussion about our shared passion. <br><br>Sarah",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-5",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "linkedin",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.linkedin.com/in/sarah-fassy-el-fehri/",
-              "size": "50",
-              "color": "#7c706b",
-              "newWindow": true
-            }
-          },
-          "title1": "LinkedIn",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "twitter",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": "50",
-              "color": "#7c706b",
-              "newWindow": true
-            }
-          },
-          "title2": "Twitter",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "skype",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": "50",
-              "color": "#7c706b",
-              "newWindow": true
-            }
-          },
-          "title3": "Skype",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "googleplus",
-              "family": "socicon",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title4": "Google +",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
