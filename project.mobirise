@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -43,6 +43,12 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#28324e",
+              "text-align": "right"
+            }
+          },
           "_anchor": "msg-box1-d",
           "_params": {
             "paddingTop": "1",
@@ -66,19 +72,21 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Because we believe in change...",
-          "title": "PRE MADE BLOCKS",
-          "_styles": {
-            "H2": {
-              "color": "#28324e",
-              "text-align": "right"
-            }
-          }
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e"
+            },
+            ".mbr-section-lead": {
+              "color": "#7e9b9f"
+            }
+          },
           "_anchor": "header1-9",
           "_params": {
             "parallax": false,
@@ -101,13 +109,67 @@
           },
           "title": "SARAH FASSY",
           "text": "Hospitality &amp; Tourism Consultant &nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-k",
+          "_params": {
+            "imageSize": "32",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-pro-1400x1403.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Vision",
+          "text": "“In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities and unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future to the companies that will continue to be successful.\"<br><br><br><br>Feel free to contact me at your convenience to have an informal discussion about our shared passion. <br><br>Sarah",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28324e"
+              "text-align": "left",
+              "color": "#475577"
             },
-            ".mbr-section-lead": {
-              "color": "#7e9b9f"
+            ".mbr-section-text": {
+              "text-align": "left",
+              "color": "#475577"
             }
           }
         },
@@ -116,12 +178,27 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#7c706b"
+            },
+            ".card-footer > div": {
+              "font-size": "22px",
+              "color": "#28324e"
+            },
+            ".card-block DIV": {
+              "text-align": "right"
+            },
+            ".card-block P": {
+              "text-align": "center"
+            }
+          },
           "testimonial": [
             {
-              "text": "<p>“In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market.&nbsp;</p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Innovation and use of technology are creating new opportunities and unprecedented fast pace.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Requiring a more proactive approach by those existing players that are commited to prosper in the future.&nbsp;</span></p><p>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future to the companies that will continue to be successful.\"</p><p><br></p><p>Feel free to contact me at your convenience to have an informal discussion about our shared passion.&nbsp;</p><p>Sarah</p>",
+              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\"><b>MBA in Hospitality Management&nbsp;</b></span><br></p><p>2012 - 2014</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/photo-pro-159x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/logo-essec-160x156.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -132,11 +209,11 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "SARAH FASSY",
-              "authorBio": "Hospitality &amp; Tourism Consultant"
+              "authorName": "ESSEC Business School",
+              "authorBio": ""
             },
             {
-              "text": "<p><b>Senior Research Analyst - OlaKala</b></p><p>2016-2017</p>",
+              "text": "<p><b>Senior Research Analyst - OlaKala</b></p><p>2016 - 2017</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mkg-logo-160x160.png",
@@ -177,6 +254,9 @@
             "count": 3,
             "paddingTop": 3,
             "paddingBottom": "1",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -186,37 +266,25 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
-          "title": "Vision &amp; Background",
-          "subtitle": "",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#7c706b"
-            },
-            ".card-footer > div": {
-              "font-size": "22px",
-              "color": "#28324e"
-            },
-            ".card-block DIV": {
-              "text-align": "right"
-            },
-            ".card-block P": {
-              "text-align": "center"
-            }
-          }
+          "title": "Background",
+          "subtitle": ""
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#28324e",
+              "font-size": "22px"
+            }
+          },
           "testimonial": [
             {
-              "text": "<p><b>Customer Service Executive - F&amp;B</b></p><p>2011-2012</p>",
+              "text": "<p><b>Customer Service Executive - F&amp;B</b></p><p>2011 - 2012</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/merivale-logo-160x88.png",
@@ -275,6 +343,9 @@
             "count": 3,
             "paddingTop": "0",
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -284,19 +355,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-footer > div": {
-              "color": "#28324e",
-              "font-size": "22px"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [

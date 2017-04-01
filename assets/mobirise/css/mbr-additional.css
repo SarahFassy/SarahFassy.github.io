@@ -424,6 +424,14 @@ h6,
 #header1-9 .mbr-section-lead {
   color: #7e9b9f;
 }
+#header2-k .mbr-section-title {
+  text-align: left;
+  color: #475577;
+}
+#header2-k .mbr-section-text {
+  text-align: left;
+  color: #475577;
+}
 #testimonials2-f .mbr-section-title {
   color: #7c706b;
 }
