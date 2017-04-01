@@ -684,6 +684,7 @@ h6,
   color: #28324e;
 }
 
+
 #ext_menu-38 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -753,4 +754,8 @@ h6,
 #msg-box8-3d .mbr-section-title,
 #msg-box8-3d p {
   color: #fff;
+}
+#content7-3c P {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
 }

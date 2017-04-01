@@ -1189,9 +1189,16 @@
             "paddingBottom": "4",
             "bgColor": "#efefef"
           },
-          "text1": "<p>Home rental sites and the alternative accommodations market account for approximately 10% of hotel room bookings in global gateways such as New York, San Francisco, London, Paris and Sydney.</p>",
+          "text1": "<p>The hospitality sector is undergoing many challenges both from within with a number of mergers and from outside with new actors entering the market causing disruption to the \"status quo\". </p><p>While most hoteliers see them as a treat, is this really the case?</p><p><br></p><blockquote>The real question is:  Are they just filling a gap or creating a new market?</blockquote><p><br></p><p><br></p><p>Change is always seen as a threat to the status quo, in this review, I will try to provide some useful insight to the Airbnb phenomenon.</p><p><br></p><p>Home rental sites and the alternative accommodations market account for approximately 10% of hotel room bookings in global gateways such as New York, San Francisco, London, Paris and Sydney.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         }
       ]
     }
