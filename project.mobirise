@@ -25,7 +25,8 @@
     "uniqCompNum": 110,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/photo-pro-128x128.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Contact.html": {
@@ -851,6 +852,16 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#475577"
+            },
+            ".mbr-section-text": {
+              "text-align": "left",
+              "color": "#475577"
+            }
+          },
           "_anchor": "header2-k",
           "_params": {
             "imageSize": "32",
@@ -896,17 +907,7 @@
           },
           "title": "Vision",
           "text": "<br>“<i>In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.</i>\"<br><br><br><br>Feel free to contact me at your convenience to have an informal discussion about our shared passion. <br><br>Sarah",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "left",
-              "color": "#475577"
-            },
-            ".mbr-section-text": {
-              "text-align": "left",
-              "color": "#475577"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "features3",
