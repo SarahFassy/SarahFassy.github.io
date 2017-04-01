@@ -455,3 +455,44 @@ h6,
 #form1-2 .mbr-section-title {
   font-size: 36px;
 }
+#msg-box1-17 H2 {
+  color: #28324e;
+  text-align: right;
+}
+#header1-18 .mbr-section-title {
+  color: #28324e;
+}
+#header1-18 .mbr-section-lead {
+  color: #7e9b9f;
+}
+#header2-19 .mbr-section-title {
+  text-align: left;
+  color: #475577;
+}
+#header2-19 .mbr-section-text {
+  text-align: left;
+  color: #475577;
+}
+#testimonials2-1b .mbr-section-title {
+  color: #7c706b;
+}
+#testimonials2-1b .card-footer > div {
+  font-size: 22px;
+  color: #28324e;
+}
+#testimonials2-1b .card-block DIV {
+  text-align: right;
+}
+#testimonials2-1b .card-block P {
+  text-align: center;
+}
+#testimonials2-1c .card-footer > div {
+  color: #28324e;
+  font-size: 22px;
+}
+#form1-1d .form-control-label {
+  color: #232323;
+}
+#form1-1d .mbr-section-title {
+  font-size: 36px;
+}
