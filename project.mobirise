@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "Background.html",
+    "currentPage": "Vision.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -93,7 +93,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f97352!important"
+              "color": "#7c706b!important"
             }
           },
           "_name": "ext.menu",
@@ -135,21 +135,21 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#7e9b9f"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_anchor": "form1-2q",
           "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": "4",
+            "labelsColor": "#7e9b9f",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e4e0df",
+            "bgColor": "#dddfdf",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -157,8 +157,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Drop a line&nbsp;",
+          "title": "CONTACT FORM&nbsp;<br><br>",
+          "subtitle": "Feel free to contact me at your convenience to have an informal discussion about our shared passion",
           "form": {
             "action": "fassysarah1@gmail.com",
             "alerts": {
@@ -193,6 +193,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -201,8 +204,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-36",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -692,7 +695,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f97352!important"
+              "color": "#7c706b!important"
             }
           },
           "_name": "ext.menu",
@@ -734,7 +737,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "font-size": "48px"
             },
             ".mbr-section-lead": {
               "color": "#7e9b9f"
@@ -760,7 +764,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "SARAH FASSY",
+          "title": "<br>SARAH FASSY<br>",
           "text": "Hospitality &amp; Tourism Consultant &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -772,16 +776,28 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#475577"
+              "color": "#475577",
+              "font-size": "24px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".mbr-section-text": {
               "text-align": "left",
               "color": "#475577"
+            },
+            ".mbr-section-text B": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-text I": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "header2-k",
           "_params": {
-            "imageSize": "32",
+            "imageSize": "29",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -798,7 +814,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": true
           },
           "media": {
             "image": {
@@ -823,7 +839,7 @@
             }
           },
           "title": "Vision",
-          "text": "<br>“<i>In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.</i>\"<br><br><br><br>Feel free to contact me at your convenience to have an informal discussion about our shared passion. <br><br>Sarah",
+          "text": "<br>“<i>In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br></i><br><i><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.</i>\"<br><br><i><b>Sarah Fassy</b></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {

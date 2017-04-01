@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -476,17 +477,20 @@ h6,
 }
 #ext_menu-2k .link[aria-expanded="true"],
 #ext_menu-2k .dropdown-item[aria-expanded="true"] {
-  color: #f97352!important;
+  color: #7c706b!important;
 }
 #form1-2q .form-control-label {
-  color: #232323;
+  color: #7e9b9f;
 }
 #form1-2q .mbr-section-title {
-  font-size: 36px;
+  font-size: 30px;
 }
 #social-buttons4-36 .mbr-section-title,
 #social-buttons4-36 .btn-social {
   color: #fff;
+}
+#social-buttons4-36 .mbr-section-title {
+  font-size: 30px;
 }
 
 #ext_menu-2t .hide-buttons .nav-btn {
@@ -570,6 +574,9 @@ h6,
   font-size: 22px;
 }
 
+
+
+
 #ext_menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -631,10 +638,11 @@ h6,
 }
 #ext_menu-2a .link[aria-expanded="true"],
 #ext_menu-2a .dropdown-item[aria-expanded="true"] {
-  color: #f97352!important;
+  color: #7c706b!important;
 }
 #header1-9 .mbr-section-title {
   color: #28324e;
+  font-size: 48px;
 }
 #header1-9 .mbr-section-lead {
   color: #7e9b9f;
@@ -642,8 +650,17 @@ h6,
 #header2-k .mbr-section-title {
   text-align: left;
   color: #475577;
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
 }
 #header2-k .mbr-section-text {
   text-align: left;
   color: #475577;
+}
+#header2-k .mbr-section-text B {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+}
+#header2-k .mbr-section-text I {
+  font-family: 'Roboto', sans-serif;
 }
