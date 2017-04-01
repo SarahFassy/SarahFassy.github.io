@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "Vision.html",
+    "currentPage": "Industry Insights.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -262,7 +262,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1027,7 +1027,8 @@
     "Industry Insights.html": {
       "settings": {
         "title": "Industry Insights",
-        "meta_descr": "Industry Insights"
+        "meta_descr": "Industry Insights",
+        "order": 2
       },
       "components": [
         {
