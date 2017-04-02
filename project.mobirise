@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "Welcome.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -159,16 +159,16 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e6e0dd",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "CONTACT FORM&nbsp;<br><br>",
-          "subtitle": "Feel free to contact me at your convenience to have an informal discussion about our shared passion",
+          "subtitle": "",
           "form": {
             "action": "fassysarah1@gmail.com",
             "alerts": {
