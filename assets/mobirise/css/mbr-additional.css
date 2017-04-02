@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -587,6 +588,8 @@ h6,
 }
 
 
+
+
 #ext_menu-3f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -652,6 +655,8 @@ h6,
 }
 #msg-box5-3n I {
   color: #28324e;
+  font-family: 'Lato', sans-serif;
+  text-align: right;
 }
 #header5-3m .mbr-section-title {
   color: #000;
@@ -663,6 +668,8 @@ h6,
 }
 #header5-3m .mbr-section-lead SPAN {
   color: #475577;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
 }
 #footer1-3j P {
   color: #28324e;
