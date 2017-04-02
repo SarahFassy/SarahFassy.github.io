@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "About.html",
+    "currentPage": "Welcome.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -617,7 +617,7 @@
             "showButtons": false
           },
           "title": "<br>SARAH FASSY<br>",
-          "text": "Hospitality &amp; Tourism Consultant &nbsp;&nbsp;",
+          "text": "Hospitality &amp; Tourism Insights &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1064,6 +1064,14 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "2",
@@ -1119,15 +1127,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-3z",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "48px"
-            },
-            "P": {
-              "font-size": "19px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
