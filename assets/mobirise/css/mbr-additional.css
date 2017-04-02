@@ -507,100 +507,6 @@ h6,
 }
 
 
-
-
-#ext_menu-2a .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-2a .navbar-caption {
-  color: #ffffff;
-  font-size: 13px;
-  font-family: 'Raleway', sans-serif;
-}
-#ext_menu-2a .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-2a .close-icon::before,
-#ext_menu-2a .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-2a .link,
-#ext_menu-2a .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-2a .link {
-  font-size: 0.75rem;
-}
-#ext_menu-2a .dropdown-item,
-#ext_menu-2a .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-2a .link:hover,
-#ext_menu-2a .dropdown-item:hover,
-#ext_menu-2a .link:focus,
-#ext_menu-2a .dropdown-item:focus {
-  color: #7c706b;
-}
-#ext_menu-2a .link[aria-expanded="true"],
-#ext_menu-2a .dropdown-menu {
-  background: #648286;
-}
-#ext_menu-2a .nav-dropdown-sm .link:focus,
-#ext_menu-2a .nav-dropdown-sm .link:hover,
-#ext_menu-2a .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-2a .nav-dropdown-sm .dropdown-item:hover {
-  background: #759498!important;
-}
-#ext_menu-2a .navbar,
-#ext_menu-2a .nav-dropdown-sm,
-#ext_menu-2a .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-2a .nav-dropdown-sm .dropdown-menu {
-  background: #7e9b9f;
-}
-#ext_menu-2a .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-2a .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-2a .bg-color.transparent.opened .link:hover,
-#ext_menu-2a .bg-color.transparent.opened .link:focus {
-  color: #7c706b;
-}
-#ext_menu-2a .link[aria-expanded="true"],
-#ext_menu-2a .dropdown-item[aria-expanded="true"] {
-  color: #7c706b!important;
-}
-#header1-9 .mbr-section-title {
-  color: #28324e;
-  font-size: 48px;
-}
-#header1-9 .mbr-section-lead {
-  color: #7e9b9f;
-}
-#header2-k .mbr-section-title {
-  text-align: left;
-  color: #475577;
-  font-size: 24px;
-  font-family: 'Roboto', sans-serif;
-}
-#header2-k .mbr-section-text {
-  text-align: left;
-  color: #475577;
-}
-#header2-k .mbr-section-text B {
-  text-align: left;
-  font-family: 'Raleway', sans-serif;
-}
-#header2-k .mbr-section-text I {
-  font-family: 'Roboto', sans-serif;
-}
-#footer1-37 P {
-  color: #28324e;
-}
-
-
 #ext_menu-38 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -759,5 +665,79 @@ h6,
   color: #475577;
 }
 #footer1-3j P {
+  color: #28324e;
+}
+
+#ext_menu-2a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2a .navbar-caption {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-2a .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2a .close-icon::before,
+#ext_menu-2a .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2a .link,
+#ext_menu-2a .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-2a .link {
+  font-size: 0.75rem;
+}
+#ext_menu-2a .dropdown-item,
+#ext_menu-2a .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-2a .link:hover,
+#ext_menu-2a .dropdown-item:hover,
+#ext_menu-2a .link:focus,
+#ext_menu-2a .dropdown-item:focus {
+  color: #7c706b;
+}
+#ext_menu-2a .link[aria-expanded="true"],
+#ext_menu-2a .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-2a .nav-dropdown-sm .link:focus,
+#ext_menu-2a .nav-dropdown-sm .link:hover,
+#ext_menu-2a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2a .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-2a .navbar,
+#ext_menu-2a .nav-dropdown-sm,
+#ext_menu-2a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2a .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-2a .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2a .bg-color.transparent.opened .link:hover,
+#ext_menu-2a .bg-color.transparent.opened .link:focus {
+  color: #7c706b;
+}
+#ext_menu-2a .link[aria-expanded="true"],
+#ext_menu-2a .dropdown-item[aria-expanded="true"] {
+  color: #7c706b!important;
+}
+#header1-9 .mbr-section-title {
+  color: #28324e;
+  font-size: 48px;
+}
+#header1-9 .mbr-section-lead {
+  color: #7e9b9f;
+}
+#footer1-37 P {
   color: #28324e;
 }
