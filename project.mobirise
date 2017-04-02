@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "Contact.html",
+    "currentPage": "Industry Insights.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -101,7 +101,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2k",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#5e8287",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -253,7 +253,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Sarah Fassy."
+          "text": "Copyright (c) 2016."
         }
       ]
     },
@@ -381,6 +381,15 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_tags": [
@@ -433,7 +442,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text1": "<p>The hospitality sector is undergoing many challenges both from within with a number of mergers and from outside with new actors entering the market causing disruption to the \"status quo\". </p><p>While most hoteliers see them as a treat, is this really the case?</p><p><br></p><blockquote>The real question is:  Are they just filling a gap or creating a new market?</blockquote><p><br></p><p>Change is always seen as a threat to the status quo, in this review, I will try to provide some useful insight to the Airbnb phenomenon.</p><p><br></p><p>Airbnb is growing at a very fast rate and is filling a gap in the market for guests who would not use traditional hotels.&nbsp;</p><p>Most of the demand is in the budget and mid market and to a lesser extent in the four/five star market. &nbsp;</p><p>Guests and hosts say they expect to increase usage and rental activity in the future.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text1": "<p>The hospitality sector is undergoing many challenges both from within with a number of mergers and from outside with new actors entering the market causing disruption to the \"status quo\". </p><p>While most hoteliers see them as a treat, is this really the case?</p><p><br></p><blockquote>The real question is:  Are they just filling a gap or creating a new market?</blockquote><p><br></p><p>Change is always seen as a threat to the status quo, in this review, I will try to provide some useful insight to the Airbnb phenomenon.</p><p><br></p><p>Airbnb is growing at a very fast rate and is filling a gap in the market for guests who would not use traditional hotels.&nbsp;</p><p>Most of the demand is in the budget and mid market and to a lesser extent in the four/five star market. &nbsp;</p><p>Recent reseraches have shown that guests and hosts say they expect to increase usage and rental activity in the future.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
@@ -573,6 +582,13 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "color": "#28324e"
+            }
+          },
           "_anchor": "msg-box5-3n",
           "_params": {
             "imageSize": "25",
@@ -619,14 +635,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "“In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.\"<br><br>Sarah Fassy<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
-              "color": "#28324e"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "header1",
@@ -741,13 +750,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#496569"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#58797e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#5e8287"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -766,7 +775,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2a",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#5e8287",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -956,7 +965,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Sarah Fassy."
+          "text": "Copyright (c) 2016."
         }
       ]
     }
