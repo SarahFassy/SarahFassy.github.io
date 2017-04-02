@@ -612,7 +612,7 @@
             }
           },
           "title": "",
-          "text": "<br><i>“In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.\"</i><br><br><b><i>Sarah Fassy</i></b><br>",
+          "text": "<br>“In a fast changing environment, the traditionnal world of hospitality is facing many challenges and disruption from new players entering the market. <br><br>Innovation and use of technology are creating new opportunities at an unprecedented fast pace, requiring a more proactive approach by those existing players that are commited to prosper in the future. <br><br>People that are equipped with the right education, strong work ethics and most importantly have passion for the hospitality sector are those that will ensure a bright future for the companies that wish to continue to be successful.\"<br><br><b><i>Sarah Fassy</i></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "I": {
@@ -624,7 +624,8 @@
             },
             "P": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px"
             }
           }
         },
