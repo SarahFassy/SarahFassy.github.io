@@ -696,6 +696,13 @@ h6,
   color: #28324e;
 }
 
+#header1-9 .mbr-section-title {
+  color: #28324e;
+  font-size: 48px;
+}
+#header1-9 .mbr-section-lead {
+  color: #7e9b9f;
+}
 #ext_menu-2a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -758,13 +765,6 @@ h6,
 #ext_menu-2a .link[aria-expanded="true"],
 #ext_menu-2a .dropdown-item[aria-expanded="true"] {
   color: #7c706b!important;
-}
-#header1-9 .mbr-section-title {
-  color: #28324e;
-  font-size: 48px;
-}
-#header1-9 .mbr-section-lead {
-  color: #7e9b9f;
 }
 #footer1-37 P {
   color: #28324e;
