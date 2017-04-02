@@ -590,6 +590,7 @@ h6,
 
 
 
+
 #ext_menu-3f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -657,6 +658,10 @@ h6,
   color: #28324e;
   font-family: 'Lato', sans-serif;
   text-align: right;
+  font-size: 16px;
+}
+#msg-box5-3n P {
+  font-family: 'Lato', sans-serif;
 }
 #header5-3m .mbr-section-title {
   color: #000;
