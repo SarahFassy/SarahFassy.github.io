@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CV Sarah Fassy",
-    "currentPage": "Industry Insights.html",
+    "currentPage": "Vision.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -912,23 +912,14 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-12-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -938,6 +929,16 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1350-800x540.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1350.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -964,16 +965,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -982,7 +975,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1339-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
