@@ -506,90 +506,6 @@ h6,
   color: #28324e;
 }
 
-#ext_menu-2t .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-2t .navbar-caption {
-  color: #ffffff;
-  font-size: 13px;
-  font-family: 'Raleway', sans-serif;
-}
-#ext_menu-2t .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-2t .close-icon::before,
-#ext_menu-2t .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-2t .link,
-#ext_menu-2t .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-2t .link {
-  font-size: 0.75rem;
-}
-#ext_menu-2t .dropdown-item,
-#ext_menu-2t .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-2t .link:hover,
-#ext_menu-2t .dropdown-item:hover,
-#ext_menu-2t .link:focus,
-#ext_menu-2t .dropdown-item:focus {
-  color: #7c706b;
-}
-#ext_menu-2t .link[aria-expanded="true"],
-#ext_menu-2t .dropdown-menu {
-  background: #648286;
-}
-#ext_menu-2t .nav-dropdown-sm .link:focus,
-#ext_menu-2t .nav-dropdown-sm .link:hover,
-#ext_menu-2t .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-2t .nav-dropdown-sm .dropdown-item:hover {
-  background: #759498!important;
-}
-#ext_menu-2t .navbar,
-#ext_menu-2t .nav-dropdown-sm,
-#ext_menu-2t .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-2t .nav-dropdown-sm .dropdown-menu {
-  background: #7e9b9f;
-}
-#ext_menu-2t .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-2t .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-2t .bg-color.transparent.opened .link:hover,
-#ext_menu-2t .bg-color.transparent.opened .link:focus {
-  color: #7c706b;
-}
-#ext_menu-2t .link[aria-expanded="true"],
-#ext_menu-2t .dropdown-item[aria-expanded="true"] {
-  color: #7c706b!important;
-}
-#testimonials2-2x .mbr-section-title {
-  color: #7c706b;
-}
-#testimonials2-2x .card-footer > div {
-  font-size: 22px;
-  color: #28324e;
-}
-#testimonials2-2x .card-block DIV {
-  text-align: right;
-}
-#testimonials2-2x .card-block P {
-  text-align: center;
-}
-#testimonials2-2y .card-footer > div {
-  color: #28324e;
-  font-size: 22px;
-}
-#footer1-37 P {
-  color: #28324e;
-}
-
 
 
 
@@ -827,6 +743,9 @@ h6,
 #ext_menu-3f .link[aria-expanded="true"],
 #ext_menu-3f .dropdown-item[aria-expanded="true"] {
   color: #7c706b!important;
+}
+#msg-box5-3n I {
+  color: #28324e;
 }
 #header5-3m .mbr-section-title {
   color: #000;
